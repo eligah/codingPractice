@@ -1,2 +1,3 @@
 # codingPractice
-This is a folder of my daily coding practice 
+
+This is a folder of my daily coding practice
