@@ -1,3 +1,4 @@
-# codingPractice
+# Code-for-practice
 
-This is a folder of my daily coding practice
+This respository aims to record my algorithm learning steps
+Just to keep my coding enthusiasm
