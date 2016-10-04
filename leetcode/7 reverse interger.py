@@ -4,6 +4,7 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
+
         ispos=True if x>=0 else False
         res=list(str(abs(x)))
         res.reverse()
