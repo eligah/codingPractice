@@ -296,6 +296,9 @@ paket-files/
 .idea/
 *.sln.iml
 
+*.sln
+*.vcxproj
+*.vcxproj.filters
 # CodeRush
 .cr/
 
